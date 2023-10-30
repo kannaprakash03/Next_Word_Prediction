@@ -4,3 +4,4 @@ keras
 pickle
 numpy
 os
+gunicorn==20.0.4
